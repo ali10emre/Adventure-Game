@@ -13,7 +13,7 @@ Orman => Odun (Firewood)
 
 Nehir => Su (Water)
 
-Maden => Altın (Su)
+Maden => Altın (Gold)
 
 2 - Oyuncu bir canavarla karşılaştığında ilk hamleyi kimin yapacağını, %50 şans ile belirleniyor.
 
