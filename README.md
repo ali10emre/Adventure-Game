@@ -2,9 +2,8 @@
 
 Java ile metin tabanlı bir macera oyunu
 
-Ödevler oyuna eklenmiştir!
 
-1 - Oyunu bitirebilmek için savaş bölgelerindeki tüm düşmanlar temizlendikten sonra bölgeye özel ödülü oyunucun envanterine eklenmelidir. Eğer oyuncu tüm ödülleri toplayıp "Güvenli Eve" dönebilirse oyunu kazanır. Ayrıca ödül kazanılan bölgeye tekrar giriş yapılamaz.
+1 - Oyunu bitirebilmek için savaş bölgelerindeki tüm düşmanlar temizlendikten sonra bölgeye özel ödül oyunucun envanterine eklenir. Eğer oyuncu tüm ödülleri toplayıp "Güvenli Eve" dönebilirse oyunu kazanır. Ayrıca ödül kazanılan bölgeye tekrar giriş yapılamaz.
 
 Bölge Ödülleri :
 
@@ -16,9 +15,9 @@ Nehir => Su (Water)
 
 Maden => Altın (Su)
 
-2 - Oyuncu bir canavarla karşılaştığında ilk hamleyi kimin yapacağını, %50 şans ile belirlenmesi. (Şuan ki durumda ilk vuran her zaman oyuncu)
+2 - Oyuncu bir canavarla karşılaştığında ilk hamleyi kimin yapacağını, %50 şans ile belirleniyor.
 
-3 - Yeni bir savaş bölgesi eklenmeli. Bu bölgenin amacı yenilen rakiplerden rastgele para, silah veya zırh kazanma ihtimali olması.
+3 - Maden savaş bölgesinin kendine has özellikleri vardır. 
 
 
 Bölge Adı : Maden
