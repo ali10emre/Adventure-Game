@@ -20,6 +20,7 @@ Maden => Altın (Su)
 
 3 - Yeni bir savaş bölgesi eklenmeli. Bu bölgenin amacı yenilen rakiplerden rastgele para, silah veya zırh kazanma ihtimali olması.
 
+
 Bölge Adı : Maden
 
 Canavar : Yılan (1-5 Adet)
@@ -27,6 +28,7 @@ Canavar : Yılan (1-5 Adet)
 Özellik : Savaş ve Ganimet
 
 Eşya : Para, Silah veya Zırh
+
 
 Yılan Özellikleri :
 
@@ -38,7 +40,9 @@ SAĞLIK :12
 
 PARA : Yok (Onun yerine eşya kazanma ihtimali)
 
+
 Yenilen bir rakiplerden düşen eşyalar :
+
 
 Silah Kazanma İhtimali : 15%
 
@@ -48,6 +52,7 @@ Kılıç Kazanma İhtimali : 30%
 
 Tabanca Kazanma İhtimali : 50%
 
+
 Zırh Kazanma İhtimali : 15%
 
 Ağır Zırh Kazanma İhtimali : 20%
@@ -56,6 +61,7 @@ Orta Zırh Kazanma İhtimali : 30%
 
 Hafif Zırh Kazanma İhtimali : 50%
 
+
 Para Kazanma İhtimali : 25%
 
 10 Para Kazanma İhtimali: 20%
@@ -63,5 +69,6 @@ Para Kazanma İhtimali : 25%
 5 Para Kazanma İhtimali: 30%
 
 1 Para Kazanma İhtimali: 50%
+
 
 Hiç birşey kazanamama ihtimali : 45%
