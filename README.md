@@ -15,7 +15,7 @@ Nehir => Su (Water)
 
 Maden => Altın (Gold)
 
-2 - Oyuncu bir canavarla karşılaştığında ilk hamleyi kimin yapacağını, %50 şans ile belirleniyor.
+2 - Oyuncu bir canavarla karşılaştığında ilk hamleyi kimin yapacağı, %50 şans ile belirleniyor.
 
 3 - Maden savaş bölgesinin kendine has özellikleri vardır. 
 
